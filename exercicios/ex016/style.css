@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;  
+    background-color: rgb(120, 126, 126);
+    
+}
+header{
+    
+    padding: 5px;
+    margin: 10px;
+    text-align: justify;
+    background-color: white;
+}
+nav{
+    margin: 5px;
+    background-color: rgb(172, 131, 81);
+    box-shadow: 2px 3px 6px 0px rgba(100, 76, 46, 0.527);
+}
+nav > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 30px;
+}
+main{
+    box-shadow: 2px 2px 1px rgba(70, 75, 75, 0.459);
+    border-radius: 0px 25px;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+    background-color: white;
+}
+section{
+    border-radius: 0px 25px;
+    background-color: bisque;
+
+}
+
+article{
+    margin: 10px 20px;
+    
+}
+
+footer > p{
+    margin: 0px;
+}
+
+footer{
+    margin: 0px;
+    font-size: 1em;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
